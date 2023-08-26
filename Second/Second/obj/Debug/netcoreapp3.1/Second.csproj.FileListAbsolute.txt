@@ -1,0 +1,14 @@
+C:\Users\TJ\Desktop\Second\Second\bin\Debug\netcoreapp3.1\Second.exe
+C:\Users\TJ\Desktop\Second\Second\bin\Debug\netcoreapp3.1\Second.deps.json
+C:\Users\TJ\Desktop\Second\Second\bin\Debug\netcoreapp3.1\Second.runtimeconfig.json
+C:\Users\TJ\Desktop\Second\Second\bin\Debug\netcoreapp3.1\Second.runtimeconfig.dev.json
+C:\Users\TJ\Desktop\Second\Second\bin\Debug\netcoreapp3.1\Second.dll
+C:\Users\TJ\Desktop\Second\Second\bin\Debug\netcoreapp3.1\Second.pdb
+C:\Users\TJ\Desktop\Second\Second\obj\Debug\netcoreapp3.1\Second.csproj.AssemblyReference.cache
+C:\Users\TJ\Desktop\Second\Second\obj\Debug\netcoreapp3.1\Second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TJ\Desktop\Second\Second\obj\Debug\netcoreapp3.1\Second.AssemblyInfoInputs.cache
+C:\Users\TJ\Desktop\Second\Second\obj\Debug\netcoreapp3.1\Second.AssemblyInfo.cs
+C:\Users\TJ\Desktop\Second\Second\obj\Debug\netcoreapp3.1\Second.csproj.CoreCompileInputs.cache
+C:\Users\TJ\Desktop\Second\Second\obj\Debug\netcoreapp3.1\Second.dll
+C:\Users\TJ\Desktop\Second\Second\obj\Debug\netcoreapp3.1\Second.pdb
+C:\Users\TJ\Desktop\Second\Second\obj\Debug\netcoreapp3.1\Second.genruntimeconfig.cache
